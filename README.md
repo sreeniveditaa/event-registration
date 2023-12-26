@@ -258,7 +258,8 @@ color: #062A3E;
 ```
 
 ## OUTPUT:
-![Alt text](<ENTRY FORM.png>)
+![ENTRY FORM](https://github.com/sreeniveditaa/event-registration/assets/147473268/14272f3e-9309-4666-a5ae-33c8b4e73438)
+
 
 ## Result:
 The program to design , devolop and deploy a web application for event registration is completed successfully.
